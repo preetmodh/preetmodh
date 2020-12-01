@@ -1,5 +1,5 @@
 <h1> Hey there! I'm Preet. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
