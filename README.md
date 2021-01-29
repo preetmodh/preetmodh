@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif" width="350"/>
 <!--- https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif --->
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning backend-end development in Django.
 - 🤔 &nbsp; Want to learn more front-end especially using react.
