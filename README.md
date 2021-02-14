@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | C 
 - 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Spyder | Visual Studio code | jupyter notebook | Git
+- 🔧 &nbsp; Spyder | Visual Studio code | jupyter notebook
 - 🖥 &nbsp; Illustrator | Photoshop | Blender | Unity
 
 <br>
@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preetmodh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/preetmodh/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/PreetModh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
