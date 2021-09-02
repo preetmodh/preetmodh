@@ -14,10 +14,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C 
-- 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Django | Flask | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Spyder | Visual Studio code | jupyter notebook
-- 🖥 &nbsp; Illustrator | Photoshop | Blender | Unity
+- 🖥 &nbsp; Illustrator | Photoshop | Blender | Unity | Postman
 
 <br>
 
