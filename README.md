@@ -6,10 +6,9 @@
 
 - 🔭 &nbsp; I’m currently learning backend-end development in Django.
 - 🤔 &nbsp; Want to learn more front-end especially using react.
-- 🎓 &nbsp; Currently 2nd year ICT student in Adani Institute Of Technology.
+- 🎓 &nbsp; Currently 3rd year ICT student in Adani Institute Of Technology.
 - ☕ &nbsp; Competitive programmer([Codechef](https://www.codechef.com/users/preetmodh_13) - 4star).
 - 💼 &nbsp; Looking for internships. 
-- 🌱 &nbsp; Enthusiast in cyber Security and networking.
 - ✍️ &nbsp; Watching Anime and trying to read more Books.
 
 <h3>🛠 Tech Stack</h3>
