@@ -5,7 +5,7 @@
 <h3> 👨💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning backend-end development in Django.
-- 🤔 &nbsp; Want to learn more front-end especially using react.
+- 🤔 &nbsp; learning React.
 - 🎓 &nbsp; Currently 3rd year ICT student in Adani Institute Of Technology.
 - ☕ &nbsp; Competitive programmer([Codechef](https://www.codechef.com/users/preetmodh_13) - 4star).
 - 💼 &nbsp; Looking for internships. 
