@@ -5,17 +5,17 @@
 <h3> 👨💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning backend-end development in Django.
-- 🤔 &nbsp; learning React.
+- 🤔 &nbsp; Itern for Network Security.
 - 🎓 &nbsp; Currently 4th year ICT student in Adani Institute Of Technology.
 - ☕ &nbsp; Competitive programmer([Codechef](https://www.codechef.com/users/preetmodh_13) - 4star).
-- 💼 &nbsp; Looking for internships. 
+- 💼 &nbsp; Looking for roles in backend development. 
 - ✍️ &nbsp; Watching Anime and trying to read more Books.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C 
 - 🌐 &nbsp; Django | Flask | React | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Postgresql
+- 🛢 &nbsp; MySQL | Postgresql 
 - 🔧 &nbsp; Spyder | Visual Studio code | jupyter notebook
 - 🖥 &nbsp; Illustrator | Photoshop | Blender | Unity | Postman
 
