@@ -4,9 +4,9 @@
 
 <h3> 👨💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning backend-end development in Django.
-- 🤔 &nbsp; Itern for Network Security.
-- 🎓 &nbsp; Currently 4th year ICT student in Adani Institute Of Technology.
+- 🔭 &nbsp; I’m currently learning backend-end development in Django and little bit of frontend in Reactjs.
+- 🤔 &nbsp; Currently working as Network Support Engineer.
+- 🎓 &nbsp; Recently graduated from Adani Institute Of Technology with BE in Information And Communication Technology.
 - ☕ &nbsp; Competitive programmer([Codechef](https://www.codechef.com/users/preetmodh_13) - 4star).
 - 💼 &nbsp; Looking for roles in backend development. 
 - ✍️ &nbsp; Watching Anime and trying to read more Books.
