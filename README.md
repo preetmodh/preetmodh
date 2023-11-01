@@ -8,7 +8,6 @@
 - 🤔 &nbsp; Currently working as Network Support Engineer.
 - 🎓 &nbsp; Recently graduated from Adani Institute Of Technology with BE in Information And Communication Technology.
 - ☕ &nbsp; Competitive programmer([Codechef](https://www.codechef.com/users/preetmodh_13) - 4star).
-- 💼 &nbsp; Looking for roles in backend development. 
 - ✍️ &nbsp; Watching Anime and trying to read more Books.
 
 <h3>🛠 Tech Stack</h3>
