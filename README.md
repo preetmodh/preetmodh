@@ -16,7 +16,6 @@
 - 🌐 &nbsp; Django | Flask | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Postgresql 
 - 🔧 &nbsp; Spyder | Visual Studio code | jupyter notebook
-- 🖥 &nbsp; Illustrator | Photoshop | Blender | Unity | Postman
 
 <br>
 
